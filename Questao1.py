@@ -12,3 +12,5 @@ while K < INDICE:
     SOMA = SOMA + K
 
 print(SOMA)
+
+#Resposta = 91
